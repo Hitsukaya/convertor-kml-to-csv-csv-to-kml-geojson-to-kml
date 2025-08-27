@@ -1,6 +1,6 @@
 <x-layouts.main>
 
-
+    <x-ui.app.header />
             <!-- Page Heading -->
             @if (isset($header))
                 <header class="bg-white shadow">
